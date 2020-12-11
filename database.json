@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "name": "Astronaut",
+      "price": "$5",
+      "id": 1,
+      "img": "/img/astronaut.jpg"
+    },
+    {
+      "name": "Rocket Fuel",
+      "price": "$10",
+      "id": 2,
+      "img": "/img/launch.jpg"
+    },
+    {
+      "name": "Space Station",
+      "price": "$15",
+      "id": 3,
+      "img": "/img/spacestation.jpg"
+    },
+    {
+      "name": "Spaceship",
+      "price": "$25",
+      "id": 4,
+      "img": "/img/spaceship.jpg"
+    },
+    {
+      "name": "Moonlander",
+      "price": "$10",
+      "id": 5,
+      "img": "/img/moon-landing.jpg"
+    },
+    {
+      "name": "Satellite",
+      "price": "$20",
+      "id": 6,
+      "img": "/img/satellite.jpg"
+    },
+    {
+      "name": "Planet",
+      "price": "$35",
+      "id": 7,
+      "img": "/img/planet.jpg"
+    },
+    {
+      "name": "Asteroid",
+      "price": "$20",
+      "id": 8,
+      "img": "/img/asteroid.jpg"
+    },
+    {
+      "name": "Star",
+      "price": "$25",
+      "id": 9,
+      "img": "/img/star.jpg"
+    }
+  ],
+  "cart": []
+}
